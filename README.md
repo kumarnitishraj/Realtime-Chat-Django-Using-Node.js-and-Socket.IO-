@@ -9,7 +9,8 @@ Setup
 
 Redis Installation
 
-#[Redis](http://redis.io/download)
+### [Redis](http://redis.io/download)
+
 sudo apt-get install redis-server
 
 #https://github.com/andymccurdy/redis-py
