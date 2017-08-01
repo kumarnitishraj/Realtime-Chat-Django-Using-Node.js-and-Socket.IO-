@@ -9,16 +9,16 @@ Setup
 
 Redis Installation
 
-### [Redis](http://redis.io/download)
+### [Redis Server](http://redis.io/download)
 
 sudo apt-get install redis-server
 
-#https://github.com/andymccurdy/redis-py
+### [Redis-py](https://github.com/andymccurdy/redis-py)
+
 sudo pip install redis    
 
-NodeJs Installation
+### [NodeJs Installation](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
 
-#https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager
 sudo apt-get install python-software-properties
 sudo add-apt-repository ppa:chris-lea/node.js
 sudo apt-get update
